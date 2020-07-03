@@ -1,2 +1,2 @@
 # gmx
-test githubpages
+static site for GMX 
